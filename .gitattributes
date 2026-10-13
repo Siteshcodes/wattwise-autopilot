@@ -1,0 +1,7 @@
+# Keep source text consistent across Windows and Unix checkouts.
+* text=auto eol=lf
+*.jpg binary
+*.png binary
+
+# Preserve upstream license text, including its original whitespace.
+docs/third-party-licenses.txt -whitespace
