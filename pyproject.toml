@@ -10,6 +10,7 @@ dependencies = ["fastmcp==2.14.5", "mcp==1.26.0", "fastapi==0.143.0", "uvicorn==
 
 [project.optional-dependencies]
 test = ["pytest==9.1.1", "pytest-asyncio==1.4.0"]
+solver = ["highspy==1.15.1", "numpy==2.5.4"]
 
 [tool.setuptools.packages.find]
 include = ["wattwise*"]

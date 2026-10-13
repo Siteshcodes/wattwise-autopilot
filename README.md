@@ -1,5 +1,8 @@
 # WattWise
 
+V2 solver phase: [implementation, Gate A, demo output and commands](docs/v2-solver.md).
+The V1 setup and MCP flow below remain available unchanged.
+
 A working local vertical slice: request → deadline → real MCP Streamable HTTP tools → deterministic optimization → review → explicit approval → simulated charger → SQLite execution history → Next.js dashboard.
 
 **No live tariffs, physical charger, or Alexa+ connection.** Bedrock is an optional intent parser; it never calculates prices or authorizes actions.

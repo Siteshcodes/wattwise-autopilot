@@ -5,3 +5,4 @@
 
 # Preserve upstream license text, including its original whitespace.
 docs/third-party-licenses.txt -whitespace
+docs/v2-solver-dependency-licenses.txt -whitespace

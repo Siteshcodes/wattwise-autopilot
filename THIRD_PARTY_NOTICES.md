@@ -1,5 +1,10 @@
 # Third-party notices
 
+The optional V2 solver adds highspy 1.15.1 and NumPy 2.5.4. Their supplied
+license/notice texts are preserved separately in
+[docs/v2-solver-dependency-licenses.txt](docs/v2-solver-dependency-licenses.txt).
+They do not alter the original V1 dependency inventory below.
+
 WattWise's original source and documentation use the MIT license in `LICENSE`.
 Dependency code retains its own license. The source commit excludes `.venv`,
 `node_modules`, native binaries, SQLite files, and build outputs; it includes

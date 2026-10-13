@@ -1,0 +1,3 @@
+# Additional V2 solver dependencies; the V1 dependency lock remains unchanged.
+highspy==1.15.1
+numpy==2.5.4

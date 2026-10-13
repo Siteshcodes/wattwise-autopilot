@@ -1,0 +1,15 @@
+{
+  "dataset_id": "pge-ev2-winter-sheet-61374-e-effective-2026-06-01",
+  "source_url": "https://www.pge.com/tariffs/assets/pdf/tariffbook/ELEC_SCHEDS_EV2%20(Sch).pdf",
+  "source_title": "PG&E Electric Schedule EV2, sheets 2 and 4",
+  "rate_sheet": "Revised Cal. P.U.C. Sheet No. 61374-E",
+  "effective_date": "2026-06-01",
+  "verified_date": "2026-10-13",
+  "currency": "USD",
+  "units": "USD/kWh",
+  "winter_months": [10, 11, 12, 1, 2, 3, 4, 5],
+  "rates": {"peak": 0.41099, "partial_peak": 0.39428, "off_peak": 0.22558},
+  "periods_local": {"peak": "16:00-21:00", "partial_peak": "15:00-16:00 and 21:00-24:00", "off_peak": "00:00-15:00"},
+  "scope": "Published bundled winter energy rates only. Fixed base services charges, taxes, credits and customer-specific adjustments are excluded. Historical snapshot, not a live tariff or a bill estimate.",
+  "scenario_notice": "Constructed household scenario on real published tariff data; no live device or forecast data."
+}
